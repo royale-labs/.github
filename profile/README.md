@@ -48,4 +48,4 @@ We invite AI developers, blockchain enthusiasts, and organizations to join us in
 
 ## Contact Us
 
-For more information or to get involved, please reach out to us at [tensor.royale@proton.me] or visit our [website](https://example.com).
+For more information or to get involved, please reach out to us at [tensor.royale@proton.me] or visit our [website]().
