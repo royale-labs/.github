@@ -25,10 +25,11 @@ Our platform addresses these challenges by offering a comprehensive suite of too
 
 ## Competition and model marketplace
 
-![Platform Logo](./TensorRoyale.jpg)
+![Architecture](https://github.com/royale-labs/.github/blob/main/profile/TensorRoyale.jpg)
 
+--- 
 
-![Platform Logo](./TensorRoyale-Page-2.jpg)
+![Model validation](https://github.com/royale-labs/.github/blob/main/profile/TensorRoyale-Page-2.jpg)
 
 
 
