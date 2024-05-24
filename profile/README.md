@@ -35,6 +35,9 @@ To address this, we have introduced the concept of "Perpetual Competitions." Thi
 -
 ![Model validation](https://github.com/royale-labs/.github/blob/main/profile/TensorRoyale-Page-2.jpg)
 
+
+This not only incentivizes competition and allows developers to be fairly rewarded for their work, but also enables more complex use cases. Problems can be measured on multiple different metrics, allowing users to choose models based on their preferred price and desired properties. By renting these models, users can efficiently test different options to find the one that best fits their specific use case or even combine different models for added redundancy. The main benefit is the ability to avoid committing to a specific model that may become deprecated, instead actively selecting the model that works best at any given time. Additionally, users can specify an intent, and the platform will aggregate and select the model based on their preferences and price requirements.
+
 <br>
 
 ## Our Journey
