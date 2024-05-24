@@ -25,7 +25,7 @@ Our platform addresses these challenges by offering a comprehensive suite of too
 
 ## Competition and model marketplace
 
-![Architecture](https://github.com/royale-labs/.github/blob/main/profile/TensorRoyale.jpg)
+![Architecture](https://github.com/royale-labs/.github/blob/main/profile/TensorRoyale-Page-1.jpg)
 
 --- 
 
